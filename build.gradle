@@ -3,7 +3,7 @@ plugins {
     id 'application'
 }
 
-group 'com.tomaspm98.hero'
+group 'com.RubenPereira1508.hero'
 version '1.0-SNAPSHOT'
 
 repositories {
